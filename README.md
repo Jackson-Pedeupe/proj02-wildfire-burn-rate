@@ -44,7 +44,7 @@ NOAA National Centers for Environmental Information. Climate at a Glance: Statew
 
 ## 4. Data example
 
-_Scraping: a URL and an annotated screenshot. Downloading: a link to your rendered `data_management.pdf` with `glimpse()`. Collecting: a screenshot of one example row._
+Link to PDF: https://github.com/Jackson-Pedeupe/proj02-wildfire-burn-rate/blob/main/data_management.pdf
 
 
 ## 5. EDA
