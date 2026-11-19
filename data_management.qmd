@@ -1,0 +1,21 @@
+---
+title: "HW 05: Modeling I"
+author: "Jackson Pedeupe"
+date: 11/18/26
+format: pdf
+execute:
+  warning: false
+  message: false
+---
+
+```{r}
+library(tidyverse)
+
+fires <- read.csv("data/Wild Fires Data.csv")
+pdsi <-  read.csv("data/Drought Data.csv")
+temp <- read.csv("data/Average Temp Data.csv")
+
+glimpse(fires)
+glimpse(pdsi, skip = 1)
+glimpse(temp, skip = 2)
+```
